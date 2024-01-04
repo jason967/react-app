@@ -8,9 +8,9 @@ export default function Header() {
       <TopBar>
         <Logo src={main_logo} />
         <Action>
-          <UserName>User Name !!!!!</UserName>
+          <UserName>User Name !!!!!!!</UserName>
           <Divider />
-          <Button>개인정보 수정</Button>
+          <Button>개인정보 수s정</Button>
           <Divider />
           <Button>로그아웃</Button>
         </Action>
