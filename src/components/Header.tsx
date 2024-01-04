@@ -36,7 +36,7 @@ const TopBar = styled.ul`
   background-color: aqua;
   display: flex;
   height: 36px;
-  max-width: var(--ScreenMaxWidth, 1600px);
+  /* max-width: var(--ScreenMaxWidth, 1600px); */
   padding: 0px 8px;
   justify-content: space-between;
   align-items: center;
