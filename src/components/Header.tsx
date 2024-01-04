@@ -10,9 +10,9 @@ export default function Header() {
         <Action>
           <UserName>User Name !!!!!!!</UserName>
           <Divider />
-          <Button>개인정보 수s정</Button>
+          <Button>개인정ddss보 수s정</Button>
           <Divider />
-          <Button>로그아웃</Button>
+          <Button>로그아ㅁㄴㅇㅁㄴㅇ웃</Button>
         </Action>
       </TopBar>
     </HeaderWrapper>
